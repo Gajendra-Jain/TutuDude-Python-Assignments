@@ -6,36 +6,12 @@ This repository is used to submit the assignments for Python Course by TuteDude.
 
 ### a1_task_1.py - Basic Arithmetic Calculator
 
-This script is a simple calculator program that helps you practice basic arithmetic operations. Here's what it does:
-
-- Asks you to enter two numbers
-- Performs four basic math operations on your numbers:
-  - Addition (+)
-  - Subtraction (-)
-  - Multiplication (×)
-  - Division (÷)
-- Shows you the results for all four operations
-
-This is a great beginner exercise to learn how to:
-- Get input from users
-- Work with numbers in Python
-- Perform mathematical calculations
-- Display results to users
+This script is a simple calculator program that takes two numbers from the user, performs four basic arithmetic operations - Addition, Subtraction, Multiplication, Division, and shows the results for all four operations.
 
 ### a2_task_2.py - Personalized Name Greeter
 
-This script creates a friendly welcome message using your name. Here's what it does:
+This script ask user to enter the first name and last name. Then it combines them together to form a full name. At last, it concatenates the full name into the greeting message and displays it.
 
-- Asks you to enter your first name
-- Asks you to enter your last name
-- Combines both names together to create your full name
-- Displays a personalized welcome message using your full name
-
-This is a perfect beginner exercise to learn how to:
-- Get text input from users
-- Store information in variables
-- Combine (concatenate) text strings
-- Create personalized output messages
 
 ## How to Run These Programs
 
